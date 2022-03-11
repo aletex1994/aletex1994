@@ -1,4 +1,5 @@
-<strong>Hello everyone,</strong>
+<strong>Hello everyone,</strong><br>
+
 Front End Developer with 5+ yrs experience | Php | Javascript | MySQL | CSS3 | HTML5
 https://www.linkedin.com/in/alessandro-tezza-5201a721a/<br>
 https://www.alessandrotezza.it
