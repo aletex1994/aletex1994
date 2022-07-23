@@ -1,6 +1,4 @@
-<strong>Hello everyone,</strong><br>
-
-Front End Developer with 5+ yrs experience | Php | Javascript | MySQL | CSS3 | HTML5<br>
+FullStack Dev
 
 https://www.linkedin.com/in/alessandro-tezza-5201a721a/<br>
 https://www.alessandrotezza.it
