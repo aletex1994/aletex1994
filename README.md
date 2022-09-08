@@ -1,7 +1,4 @@
-FullStack Dev
-
 https://www.linkedin.com/in/alessandro-tezza-5201a721a/<br>
-https://www.alessandrotezza.it
 
 
 <!---
